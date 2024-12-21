@@ -1,0 +1,14 @@
+C:\Intel\OOPlab_10\ArrayListDemo\ArrayListDemo\bin\Debug\net8.0\ArrayListDemo.exe
+C:\Intel\OOPlab_10\ArrayListDemo\ArrayListDemo\bin\Debug\net8.0\ArrayListDemo.deps.json
+C:\Intel\OOPlab_10\ArrayListDemo\ArrayListDemo\bin\Debug\net8.0\ArrayListDemo.runtimeconfig.json
+C:\Intel\OOPlab_10\ArrayListDemo\ArrayListDemo\bin\Debug\net8.0\ArrayListDemo.dll
+C:\Intel\OOPlab_10\ArrayListDemo\ArrayListDemo\bin\Debug\net8.0\ArrayListDemo.pdb
+C:\Intel\OOPlab_10\ArrayListDemo\ArrayListDemo\obj\Debug\net8.0\ArrayListDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Intel\OOPlab_10\ArrayListDemo\ArrayListDemo\obj\Debug\net8.0\ArrayListDemo.AssemblyInfoInputs.cache
+C:\Intel\OOPlab_10\ArrayListDemo\ArrayListDemo\obj\Debug\net8.0\ArrayListDemo.AssemblyInfo.cs
+C:\Intel\OOPlab_10\ArrayListDemo\ArrayListDemo\obj\Debug\net8.0\ArrayListDemo.csproj.CoreCompileInputs.cache
+C:\Intel\OOPlab_10\ArrayListDemo\ArrayListDemo\obj\Debug\net8.0\ArrayListDemo.dll
+C:\Intel\OOPlab_10\ArrayListDemo\ArrayListDemo\obj\Debug\net8.0\refint\ArrayListDemo.dll
+C:\Intel\OOPlab_10\ArrayListDemo\ArrayListDemo\obj\Debug\net8.0\ArrayListDemo.pdb
+C:\Intel\OOPlab_10\ArrayListDemo\ArrayListDemo\obj\Debug\net8.0\ArrayListDemo.genruntimeconfig.cache
+C:\Intel\OOPlab_10\ArrayListDemo\ArrayListDemo\obj\Debug\net8.0\ref\ArrayListDemo.dll

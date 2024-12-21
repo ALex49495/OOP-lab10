@@ -1,0 +1,14 @@
+C:\Intel\OOPlab_10\TeachersWorkloadApp\TeachersWorkloadApp\bin\Debug\net8.0\TeachersWorkloadApp.exe
+C:\Intel\OOPlab_10\TeachersWorkloadApp\TeachersWorkloadApp\bin\Debug\net8.0\TeachersWorkloadApp.deps.json
+C:\Intel\OOPlab_10\TeachersWorkloadApp\TeachersWorkloadApp\bin\Debug\net8.0\TeachersWorkloadApp.runtimeconfig.json
+C:\Intel\OOPlab_10\TeachersWorkloadApp\TeachersWorkloadApp\bin\Debug\net8.0\TeachersWorkloadApp.dll
+C:\Intel\OOPlab_10\TeachersWorkloadApp\TeachersWorkloadApp\bin\Debug\net8.0\TeachersWorkloadApp.pdb
+C:\Intel\OOPlab_10\TeachersWorkloadApp\TeachersWorkloadApp\obj\Debug\net8.0\TeachersWorkloadApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Intel\OOPlab_10\TeachersWorkloadApp\TeachersWorkloadApp\obj\Debug\net8.0\TeachersWorkloadApp.AssemblyInfoInputs.cache
+C:\Intel\OOPlab_10\TeachersWorkloadApp\TeachersWorkloadApp\obj\Debug\net8.0\TeachersWorkloadApp.AssemblyInfo.cs
+C:\Intel\OOPlab_10\TeachersWorkloadApp\TeachersWorkloadApp\obj\Debug\net8.0\TeachersWorkloadApp.csproj.CoreCompileInputs.cache
+C:\Intel\OOPlab_10\TeachersWorkloadApp\TeachersWorkloadApp\obj\Debug\net8.0\TeachersWorkloadApp.dll
+C:\Intel\OOPlab_10\TeachersWorkloadApp\TeachersWorkloadApp\obj\Debug\net8.0\refint\TeachersWorkloadApp.dll
+C:\Intel\OOPlab_10\TeachersWorkloadApp\TeachersWorkloadApp\obj\Debug\net8.0\TeachersWorkloadApp.pdb
+C:\Intel\OOPlab_10\TeachersWorkloadApp\TeachersWorkloadApp\obj\Debug\net8.0\TeachersWorkloadApp.genruntimeconfig.cache
+C:\Intel\OOPlab_10\TeachersWorkloadApp\TeachersWorkloadApp\obj\Debug\net8.0\ref\TeachersWorkloadApp.dll

@@ -1,0 +1,14 @@
+C:\Intel\OOPlab_10\TeachersWorkloadDictionaryApp\TeachersWorkloadDictionaryApp\bin\Debug\net8.0\TeachersWorkloadDictionaryApp.exe
+C:\Intel\OOPlab_10\TeachersWorkloadDictionaryApp\TeachersWorkloadDictionaryApp\bin\Debug\net8.0\TeachersWorkloadDictionaryApp.deps.json
+C:\Intel\OOPlab_10\TeachersWorkloadDictionaryApp\TeachersWorkloadDictionaryApp\bin\Debug\net8.0\TeachersWorkloadDictionaryApp.runtimeconfig.json
+C:\Intel\OOPlab_10\TeachersWorkloadDictionaryApp\TeachersWorkloadDictionaryApp\bin\Debug\net8.0\TeachersWorkloadDictionaryApp.dll
+C:\Intel\OOPlab_10\TeachersWorkloadDictionaryApp\TeachersWorkloadDictionaryApp\bin\Debug\net8.0\TeachersWorkloadDictionaryApp.pdb
+C:\Intel\OOPlab_10\TeachersWorkloadDictionaryApp\TeachersWorkloadDictionaryApp\obj\Debug\net8.0\TeachersWorkloadDictionaryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Intel\OOPlab_10\TeachersWorkloadDictionaryApp\TeachersWorkloadDictionaryApp\obj\Debug\net8.0\TeachersWorkloadDictionaryApp.AssemblyInfoInputs.cache
+C:\Intel\OOPlab_10\TeachersWorkloadDictionaryApp\TeachersWorkloadDictionaryApp\obj\Debug\net8.0\TeachersWorkloadDictionaryApp.AssemblyInfo.cs
+C:\Intel\OOPlab_10\TeachersWorkloadDictionaryApp\TeachersWorkloadDictionaryApp\obj\Debug\net8.0\TeachersWorkloadDictionaryApp.csproj.CoreCompileInputs.cache
+C:\Intel\OOPlab_10\TeachersWorkloadDictionaryApp\TeachersWorkloadDictionaryApp\obj\Debug\net8.0\TeachersWorkloadDictionaryApp.dll
+C:\Intel\OOPlab_10\TeachersWorkloadDictionaryApp\TeachersWorkloadDictionaryApp\obj\Debug\net8.0\refint\TeachersWorkloadDictionaryApp.dll
+C:\Intel\OOPlab_10\TeachersWorkloadDictionaryApp\TeachersWorkloadDictionaryApp\obj\Debug\net8.0\TeachersWorkloadDictionaryApp.pdb
+C:\Intel\OOPlab_10\TeachersWorkloadDictionaryApp\TeachersWorkloadDictionaryApp\obj\Debug\net8.0\TeachersWorkloadDictionaryApp.genruntimeconfig.cache
+C:\Intel\OOPlab_10\TeachersWorkloadDictionaryApp\TeachersWorkloadDictionaryApp\obj\Debug\net8.0\ref\TeachersWorkloadDictionaryApp.dll
